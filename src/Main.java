@@ -2,6 +2,8 @@ import java.util.*;
 
 public class Main {
 
+    // check
+
     public static void main(String[] args) {
 
     List<Vehicle> traffic = generateTraffic();
